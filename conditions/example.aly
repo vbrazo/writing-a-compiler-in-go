@@ -1,0 +1,28 @@
+{ var x 
+x = 4
+
+var y 
+y = 5
+
+var z = 6
+
+print x * y + 2
+
+print 2*3+ 5 * 2 / 2 * 4
+
+print 15-5
+
+print z>x
+
+print x<=51
+
+
+print x>51
+
+if(x>51){
+    print x
+}else{
+    print z
+}
+
+}
