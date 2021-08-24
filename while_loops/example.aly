@@ -1,0 +1,17 @@
+{ 
+var i =0
+if(i<3){
+    print i
+    i = i+1
+}
+
+var j = 0
+while ( j <3){
+    print j 
+    if (j == 2){
+        print 44
+    }
+    j = j+1
+}
+
+}
