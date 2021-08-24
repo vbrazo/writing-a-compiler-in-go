@@ -1,0 +1,29 @@
+{ 
+var i =0
+if(i<3){
+    print i
+    i = i+1
+}
+
+var j = 0
+while ( j <3){
+    print j 
+    if (j == 2){
+        print 44
+    }
+    j = j+1
+}
+
+
+for(var x = 0; x<10;x=x+1){
+    print 222
+}
+
+fn function (){
+ var functionVar = 123
+ print functionVar
+}
+
+
+}
+
