@@ -1,0 +1,20 @@
+v x 
+x = 4
+
+v y 
+y = 5
+
+v z = 6
+
+print x * y + 2
+
+print 2*3+ 5 * 2 / 2 * 4
+
+print 15-5
+
+print z>x
+
+print x<=51
+
+
+print x>51
